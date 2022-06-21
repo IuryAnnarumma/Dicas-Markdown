@@ -1,4 +1,6 @@
-# Olá, Mundo.
- Primeiro repositório do curso de git
+# Testes
 
-Repositório criado durante uma aula do curso em video.
+**Testes de Linguagens**
+Símbolos de Markdown
+**Negrito**
+*Itálico*
