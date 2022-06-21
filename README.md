@@ -31,3 +31,7 @@ __Lista Demarcada (* ou -)__
 - [ ] Fazer A
 - [x] Fazer B
 - [ ] Fazer C
+
+
+Para fazer links usar
+[texto que irá aparecer](link que será redirecionado)
