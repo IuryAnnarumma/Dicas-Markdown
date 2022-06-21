@@ -53,3 +53,9 @@ else
 Para emojis usar ":" e escrever o nome do emoji = 🖖
 
 Para mais emojis acessar [link de emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+Para responder alguém ou responder uma pergunta, basta usar ">" e a informação a ser respondida. Logo em seguida, uma linha e a sua resposta.
+
+> Que horas são? (Quote)
+
+15h. (Reply)
