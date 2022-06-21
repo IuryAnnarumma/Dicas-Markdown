@@ -51,4 +51,5 @@ else
 ```
 
 Para emojis usar ":" e escrever o nome do emoji = 🖖
-Para mais emojis acessar [link de emojis](github.com/ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+
+Para mais emojis acessar [link de emojis](https://github.com/ikatyang/emoji-cheat-sheet)
